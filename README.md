@@ -56,17 +56,12 @@ gestor-tareas/
 git clone https://github.com/DanielFelipeFlorezCubides/gestor-tareas
 cd gestor-tareas
 npm install
-Automáticamente se creará el archivo data/tareas.json.
 
 ▶️ Ejecución
 
 npm start
 Te mostrará un menú interactivo para gestionar tus tareas fácilmente.
 
-🛠️ Scripts disponibles
-
-npm start: Ejecuta la aplicación principal
-npm install: Además de instalar dependencias, crea automáticamente la carpeta y archivo de persistencia
 📚 Tecnologías usadas
 
 Node.js
